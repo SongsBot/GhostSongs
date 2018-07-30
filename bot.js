@@ -25,7 +25,7 @@ const fetchVideoInfo = require('youtube-info');
 
 const yt_api_key = "AIzaSyDeoIH0u1e72AtfpwSKKOSy3IPp2UHzqi4";
 
-const discord_token = "NDczMjc0NTQ4OTU2MTY4MTky.Dj_rAg.1hSYQOJ-syS0Z2ZRBWJHA744dO4";
+const discord_token = "NDczMjk1Mzk4NjIyOTg2MjQw.Dj_2cA.eB_6AffFEZCRs4NqOnzGviGVQQs";
 client.login(discord_token);
 client.on('ready', function() {
     console.log(`i am ready ${client.user.username}`);
