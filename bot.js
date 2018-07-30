@@ -12,7 +12,7 @@ client.on('message', message => {
 
 
 
-const Discord = require('discord.js');
+
 const client = new Discord.Client({disableEveryone: true})
 const Music = require('discord.js-musicbot-addon');
 client.login(`NDczMjk1Mzk4NjIyOTg2MjQw.Dj_2cA.eB_6AffFEZCRs4NqOnzGviGVQQs`)
